@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Project Rainbow
+title: Projects
 permalink: /projects/
 ---
