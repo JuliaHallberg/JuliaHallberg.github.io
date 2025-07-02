@@ -1,6 +1,6 @@
 title: Julia Hallberg
 description: Project blog
-logo: \assets\img\logo.png
+logo: assets\img\logo.png
 #show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
