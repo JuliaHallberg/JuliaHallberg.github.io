@@ -1,6 +1,6 @@
 title: Julia Hallberg
 description: Project blog
-logo: https://github.com/JuliaHallberg/JuliaHallberg.github.io/blob/8f50471fd6bbef6f4831342cd1971268cfe24d0b/assets/img/logo.png
+logo: assets/img/logo.png
 #show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
